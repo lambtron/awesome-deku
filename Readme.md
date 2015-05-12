@@ -23,3 +23,4 @@ Coming soon...
 
 - [deku-event](https://github.com/yoshuawuyts/deku-event) - Turn Deku components into eventEmitters
 - [deku-scrub](https://github.com/spalger/deku-scrub) - Deku extensions for increased awesome
+- [deku.rb](https://github.com/dirk/deku.rb) - Ruby interface to Deku JavaScript library
