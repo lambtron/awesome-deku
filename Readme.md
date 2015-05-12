@@ -12,6 +12,8 @@ Coming soon...
 
 - [khaos-app](https://github.com/stevenmiller888/khaos-app) - A template for quickly building Koa + Deku applications with ES6 support.
 
+- [deku-boilerplate](https://github.com/jkxyz/deku-boilerplate) - Boilerplate for building Deku projects
+
 ## Documentation
 
 - [Installing](https://github.com/segmentio/deku/blob/master/docs/guides/install.md) - A guide on installing Deku
