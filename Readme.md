@@ -10,7 +10,7 @@ Coming soon...
 
 ## Boilerplate
 
-- [khaos-app](https://github.com/stevenmiller888/khaos-app) - A template for quickly building Koa + Deku applications with ES6 support.
+- [keku](https://github.com/stevenmiller888/keku) - A template for quickly building Koa + Deku applications with ES6 support.
 - [deku-boilerplate](https://github.com/jkxyz/deku-boilerplate) - Boilerplate for building Deku projects
 
 ## Documentation
