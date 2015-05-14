@@ -8,6 +8,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 Coming soon...
 
+## Apps
+
+- [deku-todo-list](https://github.com/xeodou/deku-to-do-list)
+
 ## Boilerplate
 
 - [keku](https://github.com/stevenmiller888/keku) - A template for quickly building Koa + Deku applications with ES6 support.
