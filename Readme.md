@@ -10,7 +10,7 @@ Coming soon...
 
 ## Apps
 
-- [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to do list example
+- [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to-do list example
 
 ## Boilerplate
 
