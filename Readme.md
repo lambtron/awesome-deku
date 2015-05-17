@@ -1,6 +1,6 @@
 # Awesome Deku
 
-> A curated list of awesome [Deku](https://github.com/segmentio/deku) resources
+> A curated list of awesome [Deku](https://github.com/dekujs/deku) resources
 
 Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
@@ -10,6 +10,7 @@ Coming soon...
 
 ## Apps
 
+- [todomvc](https://github.com/dekujs/todomvc) - A TodoMVC example written using deku
 - [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to-do list example
 
 ## Boilerplate
@@ -19,9 +20,9 @@ Coming soon...
 
 ## Documentation
 
-- [Installing](https://github.com/segmentio/deku/blob/master/docs/guides/install.md) - A guide on installing Deku
-- [Components](https://github.com/segmentio/deku/blob/master/docs/guides/components.md) - An intro to Deku components and walkthrough of building an app with a simple Button component
-- [JSX](https://github.com/segmentio/deku/blob/master/docs/guides/jsx.md) - How to use JSX with Deku
+- [Installing](https://github.com/dekujs/deku/blob/master/docs/guides/install.md) - A guide on installing Deku
+- [Components](https://github.com/dekujs/deku/blob/master/docs/guides/components.md) - An intro to Deku components and walkthrough of building an app with a simple Button component
+- [JSX](https://github.com/dekujs/deku/blob/master/docs/guides/jsx.md) - How to use JSX with Deku
 
 ## Miscellaneous
 
