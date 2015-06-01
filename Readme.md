@@ -6,7 +6,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 ## Components
 
-Coming soon...
+- [matter](https://github.com/stevenmiller888/matter) - A UI framework built with Deku
 
 ## Apps
 
