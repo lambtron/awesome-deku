@@ -7,6 +7,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 ## Components
 
 - [matter](https://github.com/stevenmiller888/matter) - A UI framework built with Deku
+- [deku-remarkable](https://github.com/mvc-works/deku-remarkable) react-remarkable clone in Deku
 
 ## Apps
 
