@@ -8,6 +8,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 - [matter](https://github.com/stevenmiller888/matter) - A UI framework built with Deku
 - [deku-remarkable](https://github.com/mvc-works/deku-remarkable) react-remarkable clone in Deku
+- [deku-forms](https://github.com/dominicbarnes/deku-forms) - A collection of deku components for working with forms
+- [deku-siren-entity](https://github.com/dominicbarnes/deku-siren-entity) - A deku component for rendering a siren entity
+- [deku-siren-source](https://github.com/dominicbarnes/deku-siren-source) - A deku source for working with siren hypermedia APIs
+- [deku-grid](https://github.com/dominicbarnes/deku-grid) - Deku components for a grid based on suitcss/components-grid
 
 ## Apps
 
@@ -31,3 +35,4 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-event](https://github.com/yoshuawuyts/deku-event) - Turn Deku components into eventEmitters
 - [deku-scrub](https://github.com/spalger/deku-scrub) - Deku extensions for increased awesome
 - [deku.rb](https://github.com/dirk/deku.rb) - Ruby interface to Deku JavaScript library
+- [eslint-deku](https://github.com/dominicbarnes/eslint-config-deku) - ESLint configuration for use in deku projects
