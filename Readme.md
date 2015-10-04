@@ -8,7 +8,8 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 - [matter](https://github.com/stevenmiller888/matter) - A UI framework built with Deku
 - [deku-remarkable](https://github.com/mvc-works/deku-remarkable) react-remarkable clone in Deku
-- [deku-forms](https://github.com/dominicbarnes/deku-forms) - A collection of deku components for working with forms
+- [deku-forms](https://github.com/dominicbarnes/deku-forms) - A collection of deku components for working with forms (Works with Duo)
+- [deku-form](https://github.com/kevva/deku-form) - A collection of deku components for working with forms (Works with Browserify)
 - [deku-siren-entity](https://github.com/dominicbarnes/deku-siren-entity) - A deku component for rendering a siren entity
 - [deku-siren-source](https://github.com/dominicbarnes/deku-siren-source) - A deku source for working with siren hypermedia APIs
 - [deku-grid](https://github.com/dominicbarnes/deku-grid) - Deku components for a grid based on suitcss/components-grid
@@ -17,6 +18,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 - [todomvc](https://github.com/dekujs/todomvc) - A TodoMVC example written using deku
 - [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to-do list example
+- [Blox Pary](https://github.com/kvnneff/bloxparty) - A multiplayer Tetris game using Deku and Electron
 
 ## Boilerplate
 
