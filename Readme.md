@@ -16,6 +16,8 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-siren-entity](https://github.com/dominicbarnes/deku-siren-entity) - A deku component for rendering a siren entity
 - [deku-siren-source](https://github.com/dominicbarnes/deku-siren-source) - A deku source for working with siren hypermedia APIs
 - [deku-grid](https://github.com/dominicbarnes/deku-grid) - Deku components for a grid based on suitcss/components-grid
+- [deku-share](https://github.com/gillstrom/deku-share) - Social media share link components for deku
+- [deku-carousel](https://github.com/kevva/deku-carousel) - Carousel component for deku
 
 ## Apps
 
