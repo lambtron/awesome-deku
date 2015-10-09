@@ -18,6 +18,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-grid](https://github.com/dominicbarnes/deku-grid) - Deku components for a grid based on suitcss/components-grid
 - [deku-share](https://github.com/gillstrom/deku-share) - Social media share link components for deku
 - [deku-carousel](https://github.com/kevva/deku-carousel) - Carousel component for deku
+- [deku-tabs](https://github.com/gillstrom/deku-tabs) - Simple tab component for deku
 
 ## Apps
 
