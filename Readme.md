@@ -19,6 +19,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-share](https://github.com/gillstrom/deku-share) - Social media share link components for deku
 - [deku-carousel](https://github.com/kevva/deku-carousel) - Carousel component for deku
 - [deku-tabs](https://github.com/gillstrom/deku-tabs) - Simple tab component for deku
+- [deku-accordion](https://github.com/gillstrom/deku-accordion) - Accordion component for deku
 
 ## Apps
 
