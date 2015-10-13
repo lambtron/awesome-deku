@@ -20,6 +20,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-carousel](https://github.com/kevva/deku-carousel) - Carousel component for deku
 - [deku-tabs](https://github.com/gillstrom/deku-tabs) - Simple tab component for deku
 - [deku-accordion](https://github.com/gillstrom/deku-accordion) - Accordion component for deku
+- [deku-scroll-up](https://github.com/gillstrom/deku-scroll-up) - "Scroll to top of page" component for deku
 
 ## Apps
 
