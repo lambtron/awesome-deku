@@ -28,6 +28,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to-do list example
 - [Blox Pary](https://github.com/kvnneff/bloxparty) - A multiplayer Tetris game using Deku and Electron
 
+## Routing
+
+- [deku-router5](https://github.com/router5/deku-router5) - Helpers to integrate Deku with router5.
+
 ## Boilerplate
 
 - [khaos-deku-component](https://github.com/stevenmiller888/khaos-deku-component) - A template for building Deku components
