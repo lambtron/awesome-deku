@@ -21,6 +21,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-tabs](https://github.com/gillstrom/deku-tabs) - Simple tab component for deku
 - [deku-accordion](https://github.com/gillstrom/deku-accordion) - Accordion component for deku
 - [deku-scroll-up](https://github.com/gillstrom/deku-scroll-up) - "Scroll to top of page" component for deku
+- [deku-popup](https://github.com/kevva/deku-popup) - Popup/modal component for deku
 
 ## Apps
 
