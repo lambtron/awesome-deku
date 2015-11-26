@@ -53,3 +53,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [Components](https://github.com/dekujs/deku/blob/master/docs/guides/components.md) - An intro to Deku components and walkthrough of building an app with a simple Button component
 - [JSX](https://github.com/dekujs/deku/blob/master/docs/guides/jsx.md) - How to use JSX with Deku
 
+## Testing
+
+- [component-mock](https://github.com/dekujs/component-mock) - A wrapper for deku components to facilitate easier unit-testing.
+- [assert-element](https://github.com/dekujs/assert-element) - Assertions that can be used when working with Deku/React and JSX.
+- [deku-component-is-node](https://github.com/kvnneff/deku-component-is-node) - Determine if an object is a valid Deku node.
+- [deku-component-find-all](https://github.com/kvnneff/deku-component-find-all) - Traverse a Deku component tree and return all components that satisfy a function.
+- [deku-component-find-class](https://github.com/kvnneff/deku-component-find-all) - Traverse a Deku component tree and return with a given class name.
