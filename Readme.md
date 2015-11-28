@@ -22,6 +22,8 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-accordion](https://github.com/gillstrom/deku-accordion) - Accordion component for deku
 - [deku-scroll-up](https://github.com/gillstrom/deku-scroll-up) - "Scroll to top of page" component for deku
 - [deku-popup](https://github.com/kevva/deku-popup) - Popup/modal component for deku
+- [deku-redux](https://github.com/troch/deku-redux) - connect component for redux (similar to react-redux)
+- [deku-timer](https://github.com/troch/deku-timer) - higher-order timer component for timers, countdowns and any time-based contents
 
 ## Apps
 
