@@ -62,3 +62,5 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-component-is-node](https://github.com/kvnneff/deku-component-is-node) - Determine if an object is a valid Deku node.
 - [deku-component-find-all](https://github.com/kvnneff/deku-component-find-all) - Traverse a Deku component tree and return all components that satisfy a function.
 - [deku-component-find-class](https://github.com/kvnneff/deku-component-find-all) - Traverse a Deku component tree and return with a given class name.
+- [deku-component-mount](https://github.com/kvnneff/deku-component-mount) - Mount a Deku component into the DOM.
+- [deku-testutils](https://github.com/kvnneff/deku-testutils) - A collection of utlities to aid in testing Deku components.
