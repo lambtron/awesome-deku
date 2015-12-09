@@ -29,7 +29,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 
 - [todomvc](https://github.com/dekujs/todomvc) - A TodoMVC example written using deku
 - [deku-todo-list](https://github.com/xeodou/deku-to-do-list) - A to-do list example
-- [Blox Party](https://github.com/kvnneff/bloxparty) - A multiplayer Tetris game using Deku and Electron
+- [Blox Party](https://github.com/kvnneff/bloxparty) - A multiplayer falling blocks game using Deku
 
 ## Routing
 
