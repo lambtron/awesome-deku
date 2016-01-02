@@ -24,6 +24,10 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-popup](https://github.com/kevva/deku-popup) - Popup/modal component for deku
 - [deku-redux](https://github.com/troch/deku-redux) - connect component for redux (similar to react-redux)
 - [deku-timer](https://github.com/troch/deku-timer) - higher-order timer component for timers, countdowns and any time-based contents
+- [deku-lazy-load](https://github.com/micnews/deku-lazy-load) - Lazyload component for deku.
+- [deku-youtube-subscribe-button](https://github.com/micnews/deku-youtube-subscribe-button) - YouTube subscribe button for deku.
+- [deku-news-ticker](https://github.com/micnews/deku-news-ticker) - News ticker component for deku. Automatically rotates to next slide every 3 seconds.
+- [deku-pure-grid](https://github.com/micnews/deku-pure-grid) - Grid component for deku, using pure.css grid system.
 
 ## Apps
 
