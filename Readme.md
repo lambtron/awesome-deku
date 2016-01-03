@@ -28,6 +28,8 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-youtube-subscribe-button](https://github.com/micnews/deku-youtube-subscribe-button) - YouTube subscribe button for deku.
 - [deku-news-ticker](https://github.com/micnews/deku-news-ticker) - News ticker component for deku. Automatically rotates to next slide every 3 seconds.
 - [deku-pure-grid](https://github.com/micnews/deku-pure-grid) - Grid component for deku, using pure.css grid system.
+- [deku-search](https://github.com/StevenIseki/deku-search) - A simple deku search component.
+- [deku-css-modules](https://github.com/StevenIseki/deku-css-modules) - mapping of class names to CSS modules inside Deku components.
 
 ## Apps
 
@@ -52,6 +54,7 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-scrub](https://github.com/spalger/deku-scrub) - Deku extensions for increased awesome
 - [deku.rb](https://github.com/dirk/deku.rb) - Ruby interface to Deku JavaScript library
 - [eslint-deku](https://github.com/dominicbarnes/eslint-config-deku) - ESLint configuration for use in deku projects
+- [dekucomponents.com](http://dekucomponents.com/) - Search for Deku components on npm
 
 ## Documentation
 
