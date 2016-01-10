@@ -31,6 +31,13 @@ Inspired by the [awesome-react](https://github.com/enaqx/awesome-react) list.
 - [deku-search](https://github.com/StevenIseki/deku-search) - A simple deku search component.
 - [deku-css-modules](https://github.com/StevenIseki/deku-css-modules) - mapping of class names to CSS modules inside Deku components.
 
+## High-order components (v2)
+
+These packages are only compatible with deku 2.x.
+
+- [deku-memoize](https://www.npmjs.com/package/deku-memoize) - `shouldUpdate` support for deku v2
+- [deku-stateful](https://www.npmjs.com/package/deku-stateful) - `setState` support for deku v2
+
 ## Apps
 
 - [todomvc](https://github.com/dekujs/todomvc) - A TodoMVC example written using deku
