@@ -68,6 +68,7 @@ These packages are only compatible with deku 2.x.
 - [Installing](https://github.com/dekujs/deku/blob/master/docs/guides/install.md) - A guide on installing Deku
 - [Components](https://github.com/dekujs/deku/blob/master/docs/guides/components.md) - An intro to Deku components and walkthrough of building an app with a simple Button component
 - [JSX](https://github.com/dekujs/deku/blob/master/docs/guides/jsx.md) - How to use JSX with Deku
+- [Cheatsheet](http://ricostacruz.com/cheatsheets/deku-v1.html) - A cheatsheet for Deku
 
 ## Testing
 
